@@ -16,30 +16,31 @@ Há duas formas de criar um workspace no Azure, pelo [portal geral](https://port
 <br>
 No portal geral, basta clicar em Create a resource, pesquisar por machine learning e clicar no Azure Machine Learning e em Create
 
-![pesquisa machine learning](images\image.png)
-![detalhes do servico de machine learning](images\image-1.png)
+![pesquisa machine learning](https://raw.githubusercontent.com/camsrabelo/DIO-Microsoft-Azure-AI-Fundamentals/main/1%20-%20Trabalhando%20com%20Machine%20Learning%20na%20Pr%C3%A1tica%20no%20Azure%20ML/Images/image.png)
+
+![detalhes do servico de machine learning](https://raw.githubusercontent.com/camsrabelo/DIO-Microsoft-Azure-AI-Fundamentals/main/1%20-%20Trabalhando%20com%20Machine%20Learning%20na%20Pr%C3%A1tica%20no%20Azure%20ML/Images/image-1.png)
 
 Na página de criação, a dica é ficar atento a região que vai escolher o recurso e o padrão de nome utilizado, os outros itens pode deixar como padrão 
 
-![formulario de criacao de workspace](images\image-2.png)
+![formulario de criacao de workspace](https://raw.githubusercontent.com/camsrabelo/DIO-Microsoft-Azure-AI-Fundamentals/main/1%20-%20Trabalhando%20com%20Machine%20Learning%20na%20Pr%C3%A1tica%20no%20Azure%20ML/Images/image-2.png)
 
-![aba networking  do formuário workspace](images\image-3.png)
+![aba networking  do formuário workspace](https://raw.githubusercontent.com/camsrabelo/DIO-Microsoft-Azure-AI-Fundamentals/main/1%20-%20Trabalhando%20com%20Machine%20Learning%20na%20Pr%C3%A1tica%20no%20Azure%20ML/Images/image-3.png)
 
-![aba encryption do formuário workspace](images\image-4.png)
+![aba encryption do formuário workspace](https://raw.githubusercontent.com/camsrabelo/DIO-Microsoft-Azure-AI-Fundamentals/main/1%20-%20Trabalhando%20com%20Machine%20Learning%20na%20Pr%C3%A1tica%20no%20Azure%20ML/Images/image-4.png)
 
-![aba identity do formuário workspace](images\image-5.png)
+![aba identity do formuário workspace](https://raw.githubusercontent.com/camsrabelo/DIO-Microsoft-Azure-AI-Fundamentals/main/1%20-%20Trabalhando%20com%20Machine%20Learning%20na%20Pr%C3%A1tica%20no%20Azure%20ML/Images/image-5.png)
 
 Depois de provisionado, clicar em __ ou simplesmente acessar o [link do ML](https://ml.azure.com/)
 
-![acessar ML Studio](images\image-6.png)
+![acessar ML Studio](https://raw.githubusercontent.com/camsrabelo/DIO-Microsoft-Azure-AI-Fundamentals/main/1%20-%20Trabalhando%20com%20Machine%20Learning%20na%20Pr%C3%A1tica%20no%20Azure%20ML/Images/image-6.png)
 
 
 ## Criando um ML automatizado
 
-![Menu ML automatizado](images\image-7.png)
+![Menu ML automatizado](https://raw.githubusercontent.com/camsrabelo/DIO-Microsoft-Azure-AI-Fundamentals/main/1%20-%20Trabalhando%20com%20Machine%20Learning%20na%20Pr%C3%A1tica%20no%20Azure%20ML/Images/image-7.png)
 
 **__ATENÇÃO!!!__**
 
 Escolher a melhor execução do job para criar modelo e endpoint, senão o modo de preenchimento não segue igual da documentação!!!
 
-![best execution of job](images\image-8.png)
+![best execution of job](https://raw.githubusercontent.com/camsrabelo/DIO-Microsoft-Azure-AI-Fundamentals/main/1%20-%20Trabalhando%20com%20Machine%20Learning%20na%20Pr%C3%A1tica%20no%20Azure%20ML/Images/image-8.png)
